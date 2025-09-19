@@ -42,7 +42,6 @@ The project is live!
 👉 **[View Live Demo](https://endearing-parfait-90a881.netlify.app/)**
 
 ---
----
 
 ## 📸 Screenshots
 ![alt text](./artist/image1.png)
